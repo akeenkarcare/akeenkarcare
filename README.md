@@ -1,5 +1,5 @@
 ## Hi there , 
-## I'm Linda! 👋 👩🏻‍
+## I'm Linda! 👋 
 💻 I'm an undergrad at Stanford studying Computer Science and Classics.
 <!--
 **akeenkarcare/akeenkarcare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
